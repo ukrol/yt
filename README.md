@@ -9,3 +9,4 @@ Tools:
 3) Google Sheets
 
 Working schema:
+https://github.com/ukrol/yt/blob/master/Chart.png
